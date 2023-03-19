@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **UPI Project**
 
-- 🌱 I’m currently learning **Web3, Smart Contracts , Blockchain , Web2 Advanced concepts**
+- 🌱 I’m currently learning **Web2 Advanced concepts,Web3**
 
 - 👯 I’m looking to collaborate on **Cyber security related stuffs**
 
