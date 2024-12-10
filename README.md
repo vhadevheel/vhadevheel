@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQEOBnEuK8B_bw/profile-displaybackgroundimage-shrink_350_1400/0/1628487666398?e=1684972800&v=beta&t=PZ9Pwc2_mJ3V2O0Fhsl-WBaAf95DRv2ydVVOnJma3Xc)](www.google.com)
 
 <h1 align="center">Hi 👋, I'm Vadivel R</h1>
-<h3 align="center">A passionate Cyber Security researcher from India</h3>
+<h3 align="center">A passionate Cyber Security researcher and Project Management</h3>
 
 <img align="right"  alt="Coding" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
