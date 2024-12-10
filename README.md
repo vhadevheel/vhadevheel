@@ -7,19 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vhadevheel&label=Profile%20views&color=0e75b6&style=flat" alt="vhadevheel" /> </p>
 
-- 🔭 I’m currently working on **Security Project Management and Security Architecture **
+- 🔭 I’m currently working on Project Management and Security Architecture
 
-- 🌱 I’m currently learning **Web2 Advanced concepts,Web3**
+- 🌱 I’m currently learning Web2 Advanced concepts,Web3
 
-- 👯 I’m looking to collaborate on **Cyber security related stuffs**
+- 👯 I’m looking to collaborate on Cyber security related stuffs
 
-- 🤝 I’m looking for help with **creating security tool**
+- 🤝 I’m looking for help with creating security tool
 
 - 📝 I regularly write articles on [https://medium.com/@vhadevheel.18](https://medium.com/@vhadevheel.18)
 
-- 💬 About **Vadivel has an extensive experience of 10+ years in Information Security domain with the knowledge of building security measures and initiatives. I'm having working experience with vulnerability assessment and penetration testing for Banking, Insurance, Finance, E-commerce clients. Vadivel has an ability to perform penetration testing against Web Application, Mobile Application (Android,iOS), Web services, Network Penetration Testing, Vulnerability Management, Threat Modeling, DevSecOps.**
+- 💬 About Vadivel has an extensive experience of 10+ years in Information Security domain with the knowledge of building security measures and initiatives. I'm having working experience with vulnerability assessment and penetration testing for Banking, Insurance, Finance, E-commerce clients. Vadivel has an ability to perform penetration testing against Web Application, Mobile Application (Android,iOS), Web services, Network Penetration Testing, Vulnerability Management, Threat Modeling, DevSecOps.
 
-- 📫 How to reach me **vhadevheel.18@gmail.com**
+- 📫 How to reach me vhadevheel.18@gmail.com
 
 - 📄 Know about my experiences Key Skills: • Application Security (Web and Mobile) • Web Services Security • Network Security • Source Code Review (Automated) • Vulnerability and Threat Management • Vendor Risk Assessment/Risk management • Created an automated vulnerability assessment process with Jenkins and OWASP ZAP as per DevSecOps pipeline.](Key Skills: • Application Security (Web and Mobile) • Web Services Security • Network Security • Source Code Review (Automated) • Vulnerability and Threat Management • Vendor Risk Assessment/Risk management • Created an automated vulnerability assessment process with Jenkins and OWASP ZAP as per DevSecOps pipeline.)
 
