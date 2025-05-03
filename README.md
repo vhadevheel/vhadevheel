@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Project Management and Security Architecture
 
-- 🌱 I’m currently learning Web2 Advanced concepts,Web3
+- 🌱 I’m currently learning AI,LLM concepts.
 
 - 👯 I’m looking to collaborate on Cyber security related stuffs
 
